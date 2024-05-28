@@ -1,0 +1,37 @@
+div{
+    height: 400px;
+    width: 400px;
+    
+
+    border-width: 20px;
+    border-style: dotted;
+    border-color: brown;
+    border-radius: 50%;
+
+    background-image: url(img/flor.jpg);
+    text-align: center;
+    box-shadow: inset 26px 6px 23px 33px rebeccapurple;
+    background-size: cover;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: blue;
+
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+p{
+    padding-top: 100px;
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(243, 9, 80);
+    font-weight: bold;
+
+}
